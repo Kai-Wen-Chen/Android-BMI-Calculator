@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="bmi_height">你的身高(公分)</string>
+    <string name="bmi_weight">你的體重(公斤)</string>
+    <string name="bmi_btn">計算BMI</string>
+    <string name="advice_heavy">過重，要注意喔</string>
+    <string name="advice_light">過輕，要注意喔</string>
+    <string name="advice_average">正常，繼續保持</string>
+</resources>
